@@ -1,6 +1,8 @@
 # Developer-Grid-Quiz-Apps
+You can test your React JavaScript CSS Gitskills with DEVELOPER-GRID-Quiz.
 
-You can test your React JavaScript CSS Gitskills with DEVELOPER-GRID Quiz.
+## Live Link
+Hosted in Netlify -> [DEVELOPER-GRID-Quiz]()
 
 ## Rules and Regulation
 You will get 1 point for each correct answer. At the end of the Quiz, your total score will be displayed. The maximum score is 40 points.
@@ -10,6 +12,19 @@ You will get 1 point for each correct answer. At the end of the Quiz, your total
 2. This website has a create blog page and 3 Frequently Asked Questions.
 3. Data is loaded dynamically from api and that data is shown in other components
 4. This website is powered by Taster and Sources data from a graph chat app
+
+## React Router Dom v6.4 
+Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
+
+## Resources & Credits
+Tailwind Components -> 
+[Mamba UI](https://www.mambaui.com/)
+[Kitwind](https://kitwind.io/products/kometa/components)
+
+## Other Resources
+Icon -> [hero icons](https://heroicons.com/)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
