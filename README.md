@@ -5,6 +5,12 @@ You can test your React JavaScript CSS Gitskills with DEVELOPER-GRID Quiz.
 ## Rules and Regulation
 You will get 1 point for each correct answer. At the end of the Quiz, your total score will be displayed. The maximum score is 40 points.
 
+## Description For Website 
+1. An Online Quiz platform  DEVELOPER-GRID Quiz apps You can test your skills
+2. This website has a create blog page and 3 Frequently Asked Questions.
+3. Data is loaded dynamically from api and that data is shown in other components
+4. This website is powered by Taster and Sources data from a graph chat app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
