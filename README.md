@@ -2,7 +2,7 @@
 You can test your React JavaScript CSS Gitskills with DEVELOPER-GRID-Quiz.
 
 ## Live Link
-Hosted in Netlify -> [DEVELOPER-GRID-Quiz]()
+Hosted in Netlify -> [DEVELOPER-GRID-Quiz](https://developer-grid-quiz-aa03c6.netlify.app/)
 
 ## Rules and Regulation
 You will get 1 point for each correct answer. At the end of the Quiz, your total score will be displayed. The maximum score is 40 points.
